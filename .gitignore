@@ -1,0 +1,13 @@
+venv/
+ffmpeg/
+_ffmpeg_download.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+hybrid_config.json
+.installed
+error_log.txt
+startup_log.txt
+*.log
+test_as_newuser.bat

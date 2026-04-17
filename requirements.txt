@@ -1,0 +1,8 @@
+customtkinter
+faster-whisper
+transformers
+accelerate
+numpy
+pyannote.audio
+opencc-python-reimplemented
+huggingface_hub
