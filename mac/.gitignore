@@ -1,4 +1,7 @@
 venv/
-*_config.json
 __pycache__/
 *.pyc
+mac_config.json
+*.log
+語音辨識工具.app/
+.DS_Store
